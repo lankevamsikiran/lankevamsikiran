@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Container Orchestrations tools 
 
-💬 Ask me about  AWS DevOps ♾️ | CI/CD 🔁 | Docker 🐳 | Kubernetes ☸️ | Terraform | ECS ✴️
+💬 Ask me about  AWS DevOps ♾️ | CI/CD 🔁 | Docker 🐳 | Kubernetes ☸️ | Terraform | EKS ✴️ | ECS ✴️
 <!--
 **lankevamsikiran/lankevamsikiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
