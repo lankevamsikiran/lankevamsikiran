@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **AWS DevOps ♾️ | CI/CD 🔁 | Docker 🐳 | Kubernetes ☸️ | Terraform | ECS ✴️**
 
-- 📫 How to reach me **unaveengoud.006@gmail.com**
+- 📫 How to reach me **vamsikiran1303@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/naveen-uppala-99ab0a12a/](https://www.linkedin.com/in/naveen-uppala-99ab0a12a/)
+- 📄 Know about my experiences [www.linkedin.com/in/lankevamsikiran](www.linkedin.com/in/lankevamsikiran)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
