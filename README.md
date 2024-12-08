@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Ansible and Harness CI/CD**
 
-- 💬 Ask me about **AWS DevOps ♾️ | CI/CD 🔁 | Docker 🐳 | Kubernetes ☸️ | Terraform | ECS ✴️**
+- 💬 Ask me about **AWS DevOps ♾️ | CI/CD 🔁 | Docker 🐳 | Kubernetes ☸️ | Terraform | EKS ✴️ | ECS ✴️**
 
 - 📫 How to reach me **vamsikiran1303@gmail.com**
 
