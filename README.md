@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Vamsi </h1>
-<h3 align="center">A passionate AWS Devops Engineer from Hyderabad, India</h3>
+<h3 align="center">A passionate AWS Devops Engineer , India</h3>
 
 - 🔭 I’m currently working on **Container Orchestrations tools**
 
